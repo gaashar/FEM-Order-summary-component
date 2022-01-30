@@ -19,8 +19,8 @@ A simple responsive Order Summary Component built using HTML, CSS
 
 ### Screenshot
 
-![](../output/desktop_view.png)
-![](../output/mobile_view.png)
+![Desktop View](./output/desktop_view.png)
+![Mobile View](./output/mobile_view.png)
 
 ### Links
 
